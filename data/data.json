@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "Blogs are prospect magnets. They attract potential customers through organic searches, saving you money on advertising and PPC.Here’s a fun fact: Companies with blogs generate 67% more leads than those who don’t.Plus, they provide value to your current and future customers through education about topics related to your industry and your customers’ needs.But you have to be consistent. It’s like weight loss. You’ll see results increase over time if you stick with a plan.",
+      "author": "Ritesh",
+      "date": "15th August 2020",
+      "id": 1
+    },
+    {
+      "title": "Welcome to my activity ",
+      "body": "Thank you to each and every one of you that have stumbled upon this blog and have followed along on my journey of sharing and expounding on those things that comprise our world and our lives. With the intent of redefining appreciation for what surrounds us in all aspects of life",
+      "author": "Ritesh",
+      "date": "15th August 2020",
+      "id": 2
+    },
+    {
+      "title": "Learning Advice",
+      "body": "Many people mistakenly believe that the ability to learn is a matter of intelligence. For them, learning is an immutable trait like eye color, simply luck of the genetic draw. People are born learners, or they’re not, the thinking goes. So why bother getting better at it?",
+      "author": "Vipin",
+      "date": "15th August 2020",
+      "id": 3
+    },
+    {
+      "title": "Date ",
+      "body": " check kar rhe hai guys",
+      "author": "Ritesh",
+      "date": "1st August 2020",
+      "id": 4
+    },
+    {
+      "title": "help",
+      "body": " great learning",
+      "author": "Ritesh ",
+      "date": "07 September 2022",
+      "id": 5
+    }
+  ]
+}
